@@ -1,2 +1,2 @@
 # Lambda-Projects
-LAmbda school projects
+Lambda school projects
